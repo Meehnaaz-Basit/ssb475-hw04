@@ -1,0 +1,45 @@
+.header {
+  height: 100px;
+  background-color: rgb(240, 118, 159);
+}
+.container {
+  overflow: hidden;
+}
+.contact {
+  height: 250px;
+  width: 40%;
+  float: left;
+  background-color: rgb(177, 140, 212);
+}
+.blog {
+  height: 250px;
+  width: 60%;
+  float: right;
+  background-color: rgb(106, 173, 146);
+}
+.box {
+  width: 25%;
+  height: 200px;
+  float: left;
+}
+.one {
+  background-color: rgb(143, 174, 201);
+}
+.two {
+  background-color: rgb(240, 97, 214);
+}
+.three {
+  background-color: rgb(221, 143, 115);
+}
+.four {
+  background-color: rgb(242, 168, 193);
+}
+.footer {
+  height: 80px;
+  background-color: rgb(83, 82, 82);
+}
+h1 {
+  margin: 0;
+  text-align: center;
+  color: white;
+}
